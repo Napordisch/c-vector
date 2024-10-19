@@ -1,3 +1,6 @@
+// example code
+
+#include "vector.h"
 int main() {
 	Vector vector_a = CreateVector(5, 1, 0);
 	for (unsigned int i = 0; i < vector_a.amount; ++i) {
